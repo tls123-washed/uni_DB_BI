@@ -1,0 +1,7 @@
+﻿faculty_id,faculty_code,faculty_name,data_source
+1,SITE,Школа информационных технологий и инженерии,synthetic
+2,BS,Бизнес-школа,synthetic
+3,SAM,Школа прикладной математики,synthetic
+4,SEOGI,Школа энергетики и нефтегазовой индустрии,synthetic
+5,ISE,Международная школа экономики,synthetic
+6,SCE,Школа химической инженерии,synthetic
